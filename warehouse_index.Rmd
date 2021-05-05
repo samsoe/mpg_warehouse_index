@@ -1,0 +1,37 @@
+---
+title: "MPG Warehouse Index"
+output:
+  flexdashboard::flex_dashboard: 
+    theme: spacelab
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(shiny)
+```
+
+Sidebar {.sidebar data-width=250}
+=====================================
+```{r}
+selectInput("subject",
+            "Data subject:",
+            choices = c("Vegetation", "Biomass", "Point Count",
+                        "Bird"),
+            selected = c("Bird", "Vegetation"),
+            multiple = TRUE)
+```
+
+Application
+=====================================
+
+Column {.tabset data-width=750}
+-----------------
+Text and Hyperlinks related to applications
+
+Data
+=====================================
+
+Column {.tabset data-width=750}
+-----------------
+Text and Hyperlinks related to datasets
