@@ -27,11 +27,17 @@ Application
 
 Column {.tabset data-width=750}
 -----------------
-Text and Hyperlinks related to applications
+* [Ranch Weather](https://mpg-data.shinyapps.io/weather/){target="_blank"}
+* [Data Warehouse Index](https://mpg-data.shinyapps.io/warehouse_index/){target="_blank"}
+* [Surveys](https://mpg-data.shinyapps.io/mpg_surveys/){target="_blank"}
 
-Data
+Documentation
 =====================================
 
 Column {.tabset data-width=750}
 -----------------
-Text and Hyperlinks related to datasets
+* [Readme Weather Data](https://docs.google.com/document/d/1WKzE0v4DiwlfKYjMvTEVgzp_-_6jAv4l4CAtqqy-aII/edit?usp=sharing){target="_blank"}
+* [Readme grid point metadata](https://docs.google.com/document/d/1dQf3WIp2JaOTFKFo8eOj-J6tFByUA22cu_VyTbeGPa8/edit?usp=sharing){target="_blank"}
+* [Readme vegetation species metadata](https://docs.google.com/document/d/1aRGYGPsuHmuOxi29bfdzaackjJkfCEY3T2Z3rekQUbY/edit?usp=sharing){target="_blank"}
+* [Readme bird point count monitoring](https://docs.google.com/document/d/1PRryJzGOUtfr-fKXzb3tbr48xiaTuAMVk18XFXlvxcM/edit?usp=sharing){target="_blank"}
+* [Readme vegetation line-quadrat cover survey](https://docs.google.com/document/d/16-Aq8u9Rudd78fSzfjvpCXyQgE-BstC-d2PjYfmLtcw/edit?usp=sharing){target="_blank"}
