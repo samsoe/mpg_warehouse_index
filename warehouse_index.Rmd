@@ -16,9 +16,9 @@ Sidebar {.sidebar data-width=250}
 ```{r}
 selectInput("subject",
             "Data subject:",
-            choices = c("Vegetation", "Biomass", "Point Count",
+            choices = c("Weather", "Vegetation", "Biomass", "Point Count",
                         "Bird"),
-            selected = c("Bird", "Vegetation"),
+            selected = c("Weather"),
             multiple = TRUE)
 ```
 
