@@ -36,8 +36,14 @@ Documentation
 
 Column {.tabset data-width=750}
 -----------------
-* [Readme Weather Data](https://docs.google.com/document/d/1WKzE0v4DiwlfKYjMvTEVgzp_-_6jAv4l4CAtqqy-aII/edit?usp=sharing){target="_blank"}
-* [Readme grid point metadata](https://docs.google.com/document/d/1dQf3WIp2JaOTFKFo8eOj-J6tFByUA22cu_VyTbeGPa8/edit?usp=sharing){target="_blank"}
-* [Readme vegetation species metadata](https://docs.google.com/document/d/1aRGYGPsuHmuOxi29bfdzaackjJkfCEY3T2Z3rekQUbY/edit?usp=sharing){target="_blank"}
-* [Readme bird point count monitoring](https://docs.google.com/document/d/1PRryJzGOUtfr-fKXzb3tbr48xiaTuAMVk18XFXlvxcM/edit?usp=sharing){target="_blank"}
-* [Readme vegetation line-quadrat cover survey](https://docs.google.com/document/d/16-Aq8u9Rudd78fSzfjvpCXyQgE-BstC-d2PjYfmLtcw/edit?usp=sharing){target="_blank"}
+* [Readme vegetation point-intercept cover survey](https://docs.google.com/document/d/1JWnhxNjeSQZkSnGhtHP68i_l1mDj4vPFMBdUvGqN0TA/edit?usp=drivesdk target="_blank")
+* [Readme vegetation line-quadrat cover survey](https://docs.google.com/document/d/16-Aq8u9Rudd78fSzfjvpCXyQgE-BstC-d2PjYfmLtcw/edit?usp=drivesdk target="_blank")
+* [Readme Weather Data](https://docs.google.com/document/d/1WKzE0v4DiwlfKYjMvTEVgzp_-_6jAv4l4CAtqqy-aII/edit?usp=drivesdk target="_blank")
+* [Readme bird point count monitoring](https://docs.google.com/document/d/1PRryJzGOUtfr-fKXzb3tbr48xiaTuAMVk18XFXlvxcM/edit?usp=drivesdk target="_blank")
+* [Readme vegetation species metadata](https://docs.google.com/document/d/1aRGYGPsuHmuOxi29bfdzaackjJkfCEY3T2Z3rekQUbY/edit?usp=drivesdk target="_blank")
+* [Readme grid point metadata](https://docs.google.com/document/d/1dQf3WIp2JaOTFKFo8eOj-J6tFByUA22cu_VyTbeGPa8/edit?usp=drivesdk target="_blank")
+* [Readme Property Information](https://docs.google.com/document/d/1aQIMIW3Fkic7VN8dr4SgkIIVblM9TkD3Kog8zkTU7q4/edit?usp=drivesdk target="_blank")
+* [Readme vegetation biomass](https://docs.google.com/document/d/1AF8qh7YRqEJ_5DjX0GrA3Z52RfGp2f22Jc2uLonGa2I/edit?usp=drivesdk target="_blank")
+* [Readme vegetation survey methods critique](https://docs.google.com/document/d/1I5pqZoqV0CJ5452uxkD5JR-RvsLb4qBWSa8O6dyMams/edit?usp=drivesdk target="_blank")
+* [Readme Soil Moisture](https://docs.google.com/document/d/1uZ8al-Zhtm3G3Eeaik-5QHnxgfdyHuHXrLJwfMQXUXY/edit?usp=drivesdk target="_blank")
+* [Readme plant phenology data](https://docs.google.com/document/d/1D5OAvutLfdV5_9DstpWbi72aVxlksCF_QVLOtf9vWh8/edit?usp=drivesdk target="_blank")
